@@ -1,0 +1,95 @@
+/* Headings */
+
+.heading {
+    align-self: center;
+    padding: 4%;
+    padding-right: 100px !important;
+}
+
+.heading h1 {
+    font-size: 5rem;
+    color: #1B262C;
+    color: #5F939A;
+}
+
+.heading h2 {
+    font-size: 2rem;
+    color: dimgray;
+    font-weight: 100;
+}
+
+.heading-container {
+    background-color: #222831;
+    padding: 4%;
+}
+
+.heading-img {
+    margin: auto;
+}
+
+.heading-container img {
+    width: 100%;
+    border-radius: 5%;
+
+}
+
+/* Form Section */
+
+form {
+    padding-top: 30px;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    color: #5F939A;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.input-row {
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.btn-label {
+    color: dimgray;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.or {
+    font-size: 3rem;
+    color: darkcyan;
+    font-weight: 700;
+}
+
+.text {
+    font-size: 1.3rem;
+}
+
+.roomId-input {
+    width: 70% !important;
+    display: inline-block !important;
+}
+
+.row-btn {
+    margin: 2px;
+}
+
+/* Button Settings */
+
+.btn-secondary {
+    background-color: #3282B8 !important;
+    border-color: #3282B8 !important;
+}
+
+.btn-secondary:hover {
+    background-color: #5F939A !important;
+    border-color: #5F939A !important;
+}
+
+.type-roomId-input {
+    margin-left: 7px !important;
+}
